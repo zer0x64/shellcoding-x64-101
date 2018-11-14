@@ -5,7 +5,7 @@ from keystone import *
 
 #####################################################
 #                                                   #
-#   Dynamic null-free reverse TCP shell(65 bytes)   *
+#             Python Assembler IDE                  #
 #           Written by Philippe Dugre               #
 #                                                   #
 #####################################################
